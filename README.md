@@ -33,12 +33,12 @@
 
 | 이름 | 역할 |
 | --- | --- |
-| 김강민 | BackEnd & Team Leader |
-| 김봉균 | BackEnd  |
-| 이민영 | BackEnd  |
-| 정민지 | BackEnd  |
-| 정일규 | FrontEnd |
-| 유혜승 | FrontEnd |
+| *** | BackEnd & Team Leader |
+| *** | BackEnd  |
+| *** | BackEnd  |
+| *** | BackEnd  |
+| *** | FrontEnd |
+| *** | FrontEnd |
 
 ## ✨ 프로젝트 개요
 
